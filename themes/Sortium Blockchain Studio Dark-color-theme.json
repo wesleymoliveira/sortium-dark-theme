@@ -5,7 +5,9 @@
     "editor.foreground": "#6DC8BB",
     "activityBarBadge.background": "#A2238F",
     "sideBarTitle.foreground": "#bbbbbb",
-    "statusBar.background": "#666FAB"
+    "statusBar.background": "#666FAB",
+    "gitDecoration.modifiedResourceForeground": "#A2238F",
+    "gitDecoration.untrackedResourceForeground": "#6DC8BB"
   },
   "tokenColors": [
     {
