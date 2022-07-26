@@ -1,0 +1,21 @@
+{
+    "name": "sortium-dark",
+    "displayName": "Sortium Dark",
+    "description": "Sortium Blockchain Studio theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sortium Blockchain Studio Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sortium Blockchain Studio Dark-color-theme.json"
+            }
+        ]
+    }
+}
